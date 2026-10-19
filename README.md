@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/46a9ff4b-4617-4a51-b893-db34c4491723" width="500">
 </p>
 <p align="center">
-  <a href="LINK">𝓐𝓽𝓪</a>
+  <a href="extual.atabook.org">𝓐𝓽𝓪</a>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fea21612-c63d-4295-8781-e870face6dab" width="500">
